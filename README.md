@@ -1,7 +1,7 @@
 # Topic-Modeling-and-Sentiment-Analysis-on-News-Headlines
 
 ## Background 
-This a public dataset found on [Kaggle](https://www.kaggle.com/therohk/million-headlines). It contains data of news headlines published over a period of eighteen years. 
+This public dataset can be found on [Kaggle](https://www.kaggle.com/therohk/million-headlines). It contains data of news headlines published over a period of eighteen years. 
 
 Below is the data description: 
 - publish_date: Date of publishing for the article in yyyyMMdd format
